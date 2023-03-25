@@ -1,1 +1,1 @@
-# odev_18
+# Bu proje ödev 18 kapsamında verilen react ana konularını ayrı branch'lar altında incelemek için oluşturulmuştur.
